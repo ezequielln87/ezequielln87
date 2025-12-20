@@ -18,15 +18,15 @@ Sou um desenvolvedor Fullstack com sólida experiência na construção de solu�
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=c,c%2B%2B" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielln87&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+### 🛠️ Atividade e Contribuições
 
-[![Ezequiel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezequielln87&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielln87&theme=react-dark&bg_color=0D1117&hide_border=true" />
+</p>
 
 ---
 
-### 🛠️ Projetos em Destaque
+### 📖 Projetos em Destaque
 
 * **Sistemas de Gestão:** CRM completo, da implantação ao cancelamento.
 * **Inteligência Artificial:** Classificação de imagens (Darknet) e análise de sentimentos (Lhama).
