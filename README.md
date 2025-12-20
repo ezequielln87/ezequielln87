@@ -20,7 +20,9 @@ Sou um desenvolvedor Fullstack com sólida experiência na construção de solu�
 
 ---
 
-### 📊 Estatísticas
-
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Minhas Stacks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
