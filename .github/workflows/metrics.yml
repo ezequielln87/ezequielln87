@@ -15,7 +15,7 @@ jobs:
           user: ezequielln87
           template: classic
 
-          # Base limpa (sem nota)
+          # Base limpa (sem nota / sem score)
           base: header, activity, repositories
 
           # Linguagens (forte e neutro)
@@ -24,13 +24,17 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-          # Calendário (consistência visual, sem score)
+          # Consistência visual
           plugin_isocalendar: yes
 
           # Código escrito
           plugin_lines: yes
 
-          # DESATIVAR TUDO QUE GERA NOTA
+          # Forçar geração limpa do SVG
+          config_output: github-metrics.svg
+          config_timezone: America/Sao_Paulo
+
+          # DESATIVAR QUALQUER COISA QUE GERA NOTA
           plugin_achievements: no
           plugin_habits: no
           plugin_habits_charts: no
