@@ -26,3 +26,5 @@ Sou um desenvolvedor Fullstack com sólida experiência na construção de solu�
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezequielln87&theme=react-dark)
