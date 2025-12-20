@@ -1,30 +1,36 @@
 # Ezequiel Leal Nascimento | Fullstack Developer 👋
 
-Sou um desenvolvedor Fullstack com sólida experiência na construção de soluções ponta a ponta, desde sites corporativos e sistemas de gestão (CRM/ERP) até integrações avançadas de pagamentos e inteligência artificial.
+Sou um desenvolvedor Fullstack com sólida experiência na construção de soluções ponta a ponta, desde sistemas de gestão (CRM/ERP) até integrações avançadas de inteligência artificial.
 
-### 🛠️ Tecnologias e Ferramentas
+### 🚀 Tech Stack & Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,python,django,laravel,js,vue,mysql,linux,apache,nginx,flutter,dart,bots,wordpress,docker,git,postman)](https://skillicons.dev)
 
 * **Backend:** PHP (Laravel, Wordpress), Python (Django, Flask).
-* **Frontend:** Vue.js, JavaScript, HTML5/CSS3.
-* **Mobile:** Flutter, Dart.
-* **IA e Dados:** Lhama (Classificação de Texto/Sentimento), Darknet (Classificação de Imagem), MySQL.
-* **Infraestrutura:** Servidores Linux (Debian), Apache, Nginx, cPanel.
-* **Integrações:** Gateway de pagamentos ASAAS, Automação de WhatsApp.
+* **IA e Dados:** Lhama (NLP/Sentimento), Darknet (Computer Vision), MySQL.
+* **Infraestrutura:** Servidores Linux (Debian), cPanel, Nginx/Apache.
+* **Integrações:** Gateway de pagamentos ASAAS, Automação de WhatsApp (Campanhas e CRM).
 
-### 🚀 Principais Projetos e Experiências
+### 📊 Estatísticas e Performance
 
-* **Sistemas de Gestão:** Desenvolvimento de CRM com fluxo completo da implantação ao cancelamento.
-* **Inteligência Artificial:** Implementação de modelos para classificação de imagens e análise de sentimentos.
-* **Gestão Comercial:** Sistemas de resultado econômico e rastreamento veicular.
-* **Marketing & Vendas:** Automação de campanhas via WhatsApp e integração com APIs financeiras.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=c,c%2B%2B" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielln87&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+[![Ezequiel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezequielln87&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🛠️ Minhas Stacks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🛠️ Projetos em Destaque
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezequielln87&theme=react-dark)
+* **Sistemas de Gestão:** CRM completo, da implantação ao cancelamento.
+* **Inteligência Artificial:** Classificação de imagens (Darknet) e análise de sentimentos (Lhama).
+* **Gestão Comercial:** Sistemas de resultado econômico, faculdade corporativa e rastreamento veicular.
+* **Fintech:** Integração de fluxos financeiros e gateways de pagamento (ASAAS).
+
+---
