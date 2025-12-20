@@ -11,15 +11,10 @@ Sou um desenvolvedor Fullstack com sólida experiência na construção de solu�
 * **Infraestrutura:** Servidores Linux (Debian), cPanel, Nginx/Apache.
 * **Integrações:** Gateway de pagamentos ASAAS, Automação de WhatsApp (Campanhas e CRM).
 
-### 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezequielln87&theme=onedark&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
 ### 📊 Estatísticas e Performance
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&hide_rank=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=c,c%2B%2B" />
 </p>
 
