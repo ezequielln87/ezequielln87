@@ -35,7 +35,7 @@ Desenvolvedor **Fullstack** com forte atuação em soluções completas, de **CR
 
 ### 📈 Atividade & Consistência
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ezequielln87/ezequielln87/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/ezequielln87/ezequielln87/main/github-metrics.svg?v=3" />
 </p>
 
 ---
