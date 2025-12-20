@@ -3,8 +3,10 @@
 Sou um desenvolvedor Fullstack com sólida experiência na construção de soluções ponta a ponta, desde sistemas de gestão (CRM/ERP) até integrações avançadas de inteligência artificial.
 
 ### 🏆 Reconhecimento e Estatísticas
-![99Freelas Talent](https://img.shields.io/badge/99Freelas-Talent_Verified-blue?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Profile Views](https://img.shields.io/badge/Views-profile_views-green?style=for-the-badge&logo=github)
+<p align="left">
+  <img src="https://img.shields.io/badge/99Freelas-Talent_Verified-blue?style=for-the-badge&logo=google-cloud&logoColor=white" height="28px" />
+  <img src="https://komarev.com/ghpvc/?username=ezequielln87&color=green&style=for-the-badge&label=PROFILE+VIEWS" height="28px" />
+</p>
 
 ### 🚀 Tech Stack & Skills
 
@@ -20,11 +22,6 @@ Sou um desenvolvedor Fullstack com sólida experiência na construção de solu�
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&hide_rank=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=c,c%2B%2B" />
-</p>
-
-### 🐍 Contribuições em Movimento
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ezequielln87/ezequielln87/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ### 🛠️ Atividade e Contribuições
