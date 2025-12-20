@@ -1,41 +1,46 @@
 # Ezequiel Leal Nascimento | Fullstack Developer 👋
 
-Sou um desenvolvedor Fullstack com sólida experiência na construção de soluções ponta a ponta, desde sistemas de gestão (CRM/ERP) até integrações avançadas de inteligência artificial.
+Desenvolvedor **Fullstack** com experiência sólida em soluções ponta a ponta, atuando desde a modelagem do banco de dados até a entrega final do produto. Forte atuação em **CRM, ERP, automações e IA aplicada a negócios**.
 
-### 🏆 Reconhecimento e Estatísticas
+---
+
+### 🚀 Especialidades
+**Fullstack Developer | PHP & Python | IA aplicada | Automação e Integrações**
+
+---
+
+### 🏆 Reconhecimento
 <p align="left">
-  <img src="https://img.shields.io/badge/99Freelas-Talent_Verified-blue?style=for-the-badge&logo=google-cloud&logoColor=white" height="28px" />
-  <img src="https://komarev.com/ghpvc/?username=ezequielln87&color=green&style=for-the-badge&label=PROFILE+VIEWS" height="28px" />
+  <img src="https://img.shields.io/badge/99Freelas-Talent_Verified-blue?style=for-the-badge" height="28px" />
 </p>
 
-### 🚀 Tech Stack & Skills
+---
 
-![My Skills](https://skillicons.dev/icons?i=php,python,django,laravel,js,vue,mysql,linux,apache,nginx,flutter,dart,bots,wordpress,docker,git,postman)
+### 🧠 Tech Stack & Skills
 
-* **Backend:** PHP (Laravel, Wordpress), Python (Django, Flask).
-* **IA e Dados:** Lhama (NLP/Sentimento), Darknet (Computer Vision), MySQL.
-* **Infraestrutura:** Servidores Linux (Debian), cPanel, Nginx/Apache.
-* **Integrações:** Gateway de pagamentos ASAAS, Automação de WhatsApp (Campanhas e CRM).
+![My Skills](https://skillicons.dev/icons?i=php,python,django,flask,laravel,js,vue,mysql,linux,apache,nginx,docker,git,postman,wordpress)
 
-### 📊 Estatísticas e Performance
+* **Backend:** PHP (Laravel, WordPress), Python (Django, Flask)
+* **Frontend:** JavaScript, Vue.js
+* **IA aplicada:** NLP (análise de sentimento), Computer Vision, automação inteligente
+* **Banco de Dados:** MySQL
+* **Infraestrutura:** Linux (Debian), Apache, Nginx, Docker, cPanel
+* **Integrações:** Gateways de pagamento (ASAAS), WhatsApp (CRM e campanhas)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&hide_rank=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=c,c%2B%2B" />
-</p>
-
-### 🛠️ Atividade e Contribuições
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielln87&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
 
 ### 📖 Projetos em Destaque
 
-* **Sistemas de Gestão:** CRM completo, da implantação ao cancelamento.
-* **Inteligência Artificial:** Classificação de imagens (Darknet) e análise de sentimentos (Lhama).
+* **CRM / ERP:** Sistema completo do onboarding ao cancelamento, com foco em integridade financeira.
+* **Inteligência Artificial:** Classificação de imagens e análise de sentimento aplicada a cenários reais.
 * **Gestão Comercial:** Sistemas de resultado econômico, faculdade corporativa e rastreamento veicular.
 * **Fintech:** Integração de fluxos financeiros e gateways de pagamento (ASAAS).
 
