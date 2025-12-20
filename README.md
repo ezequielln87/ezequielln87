@@ -2,9 +2,12 @@
 
 Sou um desenvolvedor Fullstack com sólida experiência na construção de soluções ponta a ponta, desde sistemas de gestão (CRM/ERP) até integrações avançadas de inteligência artificial.
 
+### 🏆 Reconhecimento
+![99Freelas Talent](https://img.shields.io/badge/99Freelas-Talent_Verified-blue?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ### 🚀 Tech Stack & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=php,python,django,laravel,js,vue,mysql,linux,apache,nginx,flutter,dart,bots,wordpress,docker,git,postman)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=php,python,django,laravel,js,vue,mysql,linux,apache,nginx,flutter,dart,bots,wordpress,docker,git,postman)
 
 * **Backend:** PHP (Laravel, Wordpress), Python (Django, Flask).
 * **IA e Dados:** Lhama (NLP/Sentimento), Darknet (Computer Vision), MySQL.
