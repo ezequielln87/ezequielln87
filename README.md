@@ -31,14 +31,17 @@ Desenvolvedor **Fullstack** com forte atuação em soluções completas, de **CR
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=c,c%2B%2B" />
 </p>
 
----
 
-### 📈 Atividade & Consistência
+### 📈 Produtividade e Atividade
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ezequielln87/ezequielln87/main/github-metrics.svg?v=4" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielln87&theme=react-dark&bg_color=0D1117&hide_border=true"
+    width="100%"
+  />
 </p>
 
----
+
 
 ### 🐍 Contribuições
 <p align="center">
