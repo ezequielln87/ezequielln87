@@ -27,7 +27,7 @@ Desenvolvedor **Fullstack** com forte atuação em soluções completas, de **CR
 
 ### 📊 Estatísticas de Código
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&locale=pt-br&theme=dark&hide_border=true&bg_color=0D1117" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=c,c%2B%2B" />
 </p>
 
