@@ -1,6 +1,6 @@
 # Ezequiel Leal Nascimento | Fullstack Developer 👋
 
-Desenvolvedor **Fullstack** com foco em **soluções de negócio**, atuando da arquitetura ao deploy.  
+Desenvolvedor **Fullstack** com foco em **soluções de negócio**, atuando da concepção ao deploy.  
 Experiência prática em **CRM / ERP**, **IA aplicada**, integrações financeiras e automações corporativas.
 
 ---
@@ -13,17 +13,33 @@ Experiência prática em **CRM / ERP**, **IA aplicada**, integrações financeir
 
 ---
 
-### 🚀 Stack Principal
+### 🚀 Stack & Aplicações Reais
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,django,flask,laravel,js,vue,mysql,linux,apache,nginx,docker,git,postman,wordpress" />
+  <img src="https://skillicons.dev/icons?i=php,python,django,flask,laravel,js,vue,mysql,linux,docker,apache,nginx,git,wordpress" />
 </p>
 
-- **Backend:** PHP (Laravel, WordPress), Python (Django, Flask)
-- **Frontend:** JavaScript, Vue.js
-- **IA & Dados:** NLP (análise de sentimento), Computer Vision
-- **Infraestrutura:** Linux (Debian), Docker, Apache, Nginx, cPanel
-- **Integrações:** ASAAS, WhatsApp (CRM, bots e campanhas)
+**Backend**
+- Desenvolvimento de **APIs, CRMs e ERPs** usando PHP (Laravel / WordPress) e Python (Django / Flask)
+- Implementação de **regras de negócio**, autenticação, permissões e integrações externas
+
+**Frontend**
+- Construção de **painéis administrativos** e interfaces ricas com **Vue.js**
+- Integração frontend ↔ backend, formulários complexos e dashboards
+
+**Banco de Dados**
+- Modelagem relacional, integridade e performance com **MySQL**
+- Estruturação de dados para sistemas financeiros e operacionais
+
+**Infraestrutura**
+- Deploy e manutenção em **Linux (Debian)**
+- Servidores **Apache e Nginx**, ambientes com Docker
+- Configuração de domínio, SSL e rotinas de manutenção
+
+**Automações & Integrações**
+- Integração com **ASAAS** (cobranças, pagamentos e recorrência)
+- **WhatsApp**: bots, campanhas, notificações e CRM
+- Automação de processos para ganho operacional
 
 ---
 
@@ -33,8 +49,6 @@ Experiência prática em **CRM / ERP**, **IA aplicada**, integrações financeir
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&locale=pt-br&theme=dark&hide_border=true&bg_color=0D1117" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=donut&theme=dark&hide_border=true&bg_color=0D1117" />
 </p>
-
-> Grande parte da minha atuação profissional está em **repositórios privados**, refletindo projetos reais de mercado.
 
 ---
 
@@ -57,7 +71,7 @@ Experiência prática em **CRM / ERP**, **IA aplicada**, integrações financeir
 
 ---
 
-### 📖 Projetos e Entregas
+### 📖 Projetos & Entregas
 
 - **CRM / ERP:** sistemas completos com regras financeiras e integridade de dados
 - **IA aplicada:** classificação de imagens e análise de sentimento em produção
