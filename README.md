@@ -1,10 +1,3 @@
-Para tornar seu GitHub mais atrativo e profissional, mantendo a conformidade com a Workana (sem dados de contato), o ideal é focar na sua senioridade técnica e diversidade de stack. Como você é um desenvolvedor Fullstack com experiência em IA e integrações complexas, o README deve refletir isso de forma direta.
-
-Aqui está uma proposta otimizada para o seu README.md:
-
-Proposta de README Profissional
-Markdown
-
 # Ezequiel Leal Nascimento | Fullstack Developer 👋
 
 Sou um desenvolvedor Fullstack com sólida experiência na construção de soluções ponta a ponta, desde sites corporativos e sistemas de gestão (CRM/ERP) até integrações avançadas de pagamentos e inteligência artificial.
