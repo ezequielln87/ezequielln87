@@ -1,19 +1,33 @@
-### Hi there 👋
+Para tornar seu GitHub mais atrativo e profissional, mantendo a conformidade com a Workana (sem dados de contato), o ideal é focar na sua senioridade técnica e diversidade de stack. Como você é um desenvolvedor Fullstack com experiência em IA e integrações complexas, o README deve refletir isso de forma direta.
 
-<!--
-**ezequielln87/ezequielln87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui está uma proposta otimizada para o seu README.md:
 
-Here are some ideas to get you started:
+Proposta de README Profissional
+Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ezequiel Leal Nascimento | Fullstack Developer 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=large&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Sou um desenvolvedor Fullstack com sólida experiência na construção de soluções ponta a ponta, desde sites corporativos e sistemas de gestão (CRM/ERP) até integrações avançadas de pagamentos e inteligência artificial.
+
+### 🛠️ Tecnologias e Ferramentas
+
+* **Backend:** PHP (Laravel, Wordpress), Python (Django, Flask).
+* **Frontend:** Vue.js, JavaScript, HTML5/CSS3.
+* **Mobile:** Flutter, Dart.
+* **IA e Dados:** Lhama (Classificação de Texto/Sentimento), Darknet (Classificação de Imagem), MySQL.
+* **Infraestrutura:** Servidores Linux (Debian), Apache, Nginx, cPanel.
+* **Integrações:** Gateway de pagamentos ASAAS, Automação de WhatsApp.
+
+### 🚀 Principais Projetos e Experiências
+
+* **Sistemas de Gestão:** Desenvolvimento de CRM com fluxo completo da implantação ao cancelamento.
+* **Inteligência Artificial:** Implementação de modelos para classificação de imagens e análise de sentimentos.
+* **Gestão Comercial:** Sistemas de resultado econômico e rastreamento veicular.
+* **Marketing & Vendas:** Automação de campanhas via WhatsApp e integração com APIs financeiras.
+
+---
+
+### 📊 Estatísticas
+
+![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielln87&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielln87&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
